@@ -8,8 +8,6 @@ Having been raised on exclusively high-level languages, we decided to forsake ou
 
  Hacky Duck is a game where you play as a brave duck trying to avoid treacherous green pillars in low-level assembly.
 
-## How I built it
-
 ## Challenges I ran into
 Assembly, with its manual memorty management thoroughly tests your knowledge of computer science fundamentals, much moreso than a more conventional language.
 
